@@ -69,11 +69,4 @@ Each folder is self-contained. You can follow them in order for a complete learn
 
 ---
 
-## 👤 Author
-
-**Bhuvan Raj**
-- GitHub: [@bhuvan-raj](https://github.com/bhuvan-raj)
-
----
-
 > ⭐ If this repo helped you, consider giving it a star!
